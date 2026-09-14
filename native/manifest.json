@@ -60,11 +60,11 @@
         "override_on_update": true,
         "size": {
           "width": 300,
-          "height": 200
+          "height": 150
         },
         "min_size": {
           "width": 200,
-          "height": 200
+          "height": 150
         }
       },
       "in_game": {
