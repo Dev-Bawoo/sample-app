@@ -55,16 +55,16 @@
         "file": "windows/desktop/desktop.html",
         "desktop_only": true,
         "native_window": true,
-        "resizable": true,
+        "resizable": false,
         "transparent": false,
         "override_on_update": true,
         "size": {
-          "width": 300,
-          "height": 150
+          "width": 800,
+          "height": 600
         },
         "min_size": {
-          "width": 300,
-          "height": 150
+          "width": 800,
+          "height": 600
         }
       },
       "in_game": {
@@ -76,12 +76,12 @@
         "transparent": true,
         "override_on_update": true,
         "size": {
-          "width": 300,
-          "height": 150
+          "width": 800,
+          "height": 600
         },
         "min_size": {
-          "width": 300,
-          "height": 150
+          "width": 800,
+          "height": 600
         }
       },
       "second": {
@@ -94,12 +94,12 @@
         "keep_window_location": true,
         "disable_hardware_acceleration": true,
         "size": {
-          "width": 300,
-          "height": 150
+          "width": 800,
+          "height": 600
         },
         "min_size": {
-          "width": 300,
-          "height": 150
+          "width": 800,
+          "height": 600
         }
       }
     },
