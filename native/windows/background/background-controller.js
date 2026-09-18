@@ -113,7 +113,9 @@ export class BackgroundController {
     }
 
     // Open in-game window
-    await this._restoreGameWindow();
+    await this._restoreGameWindow() {
+        return WindowsService.restore(kWindowNames.IN_GAME);
+    }
 
     // Close desktop window
     await WindowsService.close(kWindowNames.DESKTOP);

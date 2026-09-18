@@ -108,15 +108,6 @@
       "game_ids": [8954]
     },
     "game_events": [8954],
-    "launch_events": [
-      {
-        "event": "GameLaunch",
-        "event_data": {
-          "game_ids": [8954]
-        },
-        "start_minimized": true
-      }
-    ],
     "developer": {
       "enable_auto_refresh": true,
       "reload_delay": 1000,
